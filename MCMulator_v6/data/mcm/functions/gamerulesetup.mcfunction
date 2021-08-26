@@ -1,0 +1,19 @@
+gamerule maxCommandChainLength 2147483647
+time set day
+weather clear
+gamerule doDaylightCycle false
+gamerule commandBlockOutput false
+gamerule announceAdvancements false
+gamerule doMobSpawning false
+gamerule doEntityDrops false
+gamerule doFireTick false
+gamerule doWeatherCycle false
+gamerule doImmediateRespawn true
+gamerule keepInventory true
+gamerule doTraderSpawning false
+gamerule disableRaids true
+gamerule maxEntityCramming 0
+gamerule randomTickSpeed 0
+gamerule spawnRadius 0
+gamerule doMobLoot false
+gamerule doTileDrops false
