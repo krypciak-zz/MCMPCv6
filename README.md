@@ -50,7 +50,7 @@ The position of the armor stand reading data is calculated with<br> this equatio
 <br>
 <h2>CPU</h2>
 The CPU uses <a href="https://github.com/krypciak/KLLL-Compiler-L1">KLLL Binary</a> for executing programs.<br>
-You can write in <a href="https://github.com/krypciak/KLLL-Compiler-L1">KLLL L1</a> language or <a href="https://github.com/krypciak/KLLL-Compiler-L1">KLLL L2</a> languane.<br>
+You can write in <a href="https://github.com/krypciak/KLLL-Compiler-L1">KLLL L1</a> language or <a href="https://github.com/krypciak/KLLL-Compiler-L2">KLLL L2</a> languane.<br>
 KLLL L2 is a higher-level language and it is converted to KLLL L1, so I recommend writing in KLLL L2.<br><br>
 To see the instruction set click <a href="https://github.com/krypciak/KLLL-Compiler-L1/blob/main/README.md">here</a>.<br>
 
