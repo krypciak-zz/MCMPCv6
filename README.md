@@ -1,6 +1,8 @@
-MCMulator PC v6 is an Integer based Minecraft computer.<br>
+PROJECT ARCHIVED. THE NEWER VERSION CAN BE SEEN [HERE](https://github.com/krypciak/MCMPCv7).
 
-DOCUMENTATION NOT FINISHED
+DOCUMENTATION NOT FINISHED.
+
+MCMulator PC v6 is an Integer based Minecraft computer.<br>
 
 <h2>Screen</h2>
 <ul>
@@ -8,7 +10,6 @@ DOCUMENTATION NOT FINISHED
     <ul>
        <li>Max size: 240x240</li>
        <li>Colors: RGB, ~16 million colors</li>
-       <li>See how to screen works: youtube video comming soon</li>
     </ul>
   </li>
   <li><strong>16 color palette</strong>
